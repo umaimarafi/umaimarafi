@@ -14,6 +14,7 @@
   6. WordPress
   7. computer Forensic
   8. Headless e-commerce and CRM
+  
   Hobbies:
 As a hobby im a digital artist too having interest in abtract digital painting.
 -  I’m looking to collaborate towards projects to increase my hands on expertise as well as to give the industry better products.
@@ -22,4 +23,5 @@ As a hobby im a digital artist too having interest in abtract digital painting.
 -  just send me an email  at "umaimakish517@gmail.com"
 -  GitHUb:umaimarafi
 -  Linkedin:umaimarafi
-Thank you for visiting my profile for any kind of queries feel free to contact.
+-  Thank you for visiting my profile for any kind of queries feel free to contact.
+
