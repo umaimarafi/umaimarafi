@@ -1,5 +1,5 @@
 -  👋 Hi, I’m umaimarafi.
-- A Certifies Computer Hacker and Computer Forensic expert.
+- A Certified Computer Hacking and Computer Forensic (CHFI)expert.
 - A passionate developer with the focus on writing a clean and efficient code that delivers great user experience.Im always ready to takeover new challenge and collaborate with team to find creative solutions  for complex problems.
 - Education: 
 - Im doing my bachelors in software engineering from NUML isl.
